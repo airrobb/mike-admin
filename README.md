@@ -3,3 +3,9 @@ To fully grasp the power of the mike-admin toolkit you must spend years training
 
 ##Usage
 Install and let mike-admin do its thing.  Which is awesome.
+
+##mike-adminize your slack
+Paste this into your channel for a pleasing mike-admin sidebar
+```
+#2B303B,#2C3849,#81cbc4,#2B303B,#4A5664,#FFFFFF,#9BBE8C,#9bbe8c
+```
