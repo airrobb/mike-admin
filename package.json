@@ -1,6 +1,6 @@
 {
   "name": "mike-admin",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "bin": {
     "mike-admin": "bin/mike-admin.js"
