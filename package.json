@@ -1,7 +1,10 @@
 {
   "name": "mike-admin",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
+  "bin": {
+    "mike-admin": "bin/mike-admin.js"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +20,8 @@
   },
   "homepage": "https://github.com/airrobb/mike-admin#readme",
   "dependencies": {
+    "commander": "^2.9.0",
+    "speaker": "^0.3.0",
     "left-pad": "^1.1.3"
   }
 }
