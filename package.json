@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/airrobb/mike-admin/issues"
   },
-  "homepage": "https://github.com/airrobb/mike-admin#readme"
+  "homepage": "https://github.com/airrobb/mike-admin#readme",
+  "dependencies": {
+    "left-pad": "^1.1.3"
+  }
 }
